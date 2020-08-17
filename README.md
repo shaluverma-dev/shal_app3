@@ -1,5 +1,7 @@
 # README
-1. Complete ruby on rails course
+1. Complete ruby on rails course by Shalini Verma first test of Git repository
+
+
 
 <!-- This README would normally document whatever steps are necessary to get the
 application up and running.
